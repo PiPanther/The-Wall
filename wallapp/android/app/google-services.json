@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512364087081",
+    "project_id": "mitsuha-ba3d3",
+    "storage_bucket": "mitsuha-ba3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512364087081:android:78e56d47426b5ed3165938",
+        "android_client_info": {
+          "package_name": "com.example.wallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxE_I52z2bBck4ubBkAu1iKeHjDgaK_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
